@@ -1,0 +1,10 @@
+com\prateek\model\FlightDetails.class
+com\prateek\code\UserInput.class
+com\prateek\model\InputDetails.class
+com\prateek\code\Task.class
+com\prateek\fatory\SimpleFactory.class
+com\prateek\code\TaskExecution.class
+com\prateek\map\FileData.class
+com\prateek\utils\Constants.class
+com\prateek\code\DemoClass.class
+com\prateek\code\SearchFlight.class

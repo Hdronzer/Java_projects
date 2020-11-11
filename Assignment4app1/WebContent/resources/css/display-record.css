@@ -1,0 +1,49 @@
+@charset "ISO-8859-1";
+
+.header {
+background-color: #4CAF50;
+color: white; margin: 15px 0;
+text-align: center; border: 1px double #ccc;
+box-sizing: border-box; border-radius: 20px;
+}
+
+.container {
+	padding: 10px 20px;
+}
+
+.align-right {
+	text-align:right;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+
+th {
+	border-bottom:1px solid gray;
+	background:none repeat scroll 0 0 #09c332;
+	padding:10px;
+	color: #FFFFFF;
+}
+
+td {
+	padding: 5px 10px;
+	text-align: center;
+}
+
+tr {
+	border-top:1px solid gray;
+	text-align:center;	
+}
+
+tr:nth-child(even) {background: #FFFFFF}
+tr:nth-child(odd) {background: #BBBBBB}
+
+.form {
+	padding-bottom: 20px;
+}
+
+.error {
+	text-align:center;
+	color: #EE3E1E;
+	margin: 10px 10px;
+	text-indent: bold;
+}
