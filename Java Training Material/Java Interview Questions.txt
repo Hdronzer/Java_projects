@@ -1,0 +1,59 @@
+Please find the questions asked in interview:
+
+1.	Walk through current project and roles and responsibilities.
+2.	Advantages of spring aop over aspectj.
+3.	Map vs set. When will you use which one use cases
+4.	Deadlock prevention ways, how you analyse
+5.	Rest vs soap.
+6.	How to make soap call via rest service. How seq in soap message will be maintained in conversion of request.
+7.	What is lazy initialization.
+8.	Topic vs queue. Limit number of messages in queue. How will you make only 5 subscribers to subscribe message. Implementation for subscribing priority messages first.
+9.	What is spring security? How it works for authentication and authorization? How to implement different filters for different consumers.
+10.	How ehcache works? How to specify max records in cache? How it is invoked? 
+11.	Config server? How to set default properties in fetch from config server fails?
+
+Coding round:
+1.	Write code for right order traversal in binary tree.
+
+Please find below list questions asked during interview.
+
+1. Walkthrough with your current project and your role and responsibility and day to day work details.
+2. How VM box deployment is different then containerized?
+3. Diffrence between vm box and containerized?
+4. java 8 all feature with explain wiht example?
+5. what is java memory model and how manage memory internally?
+6. how web Security implmented on web applicaiton with examples?
+7. How you implemented OAuth2 in you micro services based applicaiton?
+8. How you implmented security on Rest services and how generated authentication and authrization tocken?
+9. How you will identify deadlock occured in application?
+8. if deadlock occured, How you will resolve it with example?
+9. what is redis cache and how you configure in your project with example?
+10. what is diffrence between dependency injection and factory design pattern with example in details?
+11. Asked some database complex queries to fech data from database?
+12. Types of design patternts and explain observable, state, strategy and behavireal pattern?
+13. Exaple of calling soap service to rest service and thier type conversion and data validation? list of apis used to impment of this?
+14. what is Kafka? how you use RabbitMQ in micro service communcation? how did you manage channels and rabbit configuration.?
+15. In JMS messaging system, if producer broadcast message to consumrs and if few consumers are down and what happened to message?
+16. There was more qutions on JMS messaging system?
+17. Practically where you will use soap and Rest service? diff btwn soap and rest with example and usablility?
+18. How you will implment security on soap services and protect data in network layer?
+19. how you will write custom Redice key generator program  ?
+20. What docker? how you implmetned docker in your project? how deploy docker based services?
+21. what cloud you used? define the services of cloud and tools used to manage microsrevices?
+
+The interview questions were mostly asked from work being done in previous projects.
+
+1.	Role of application context? (Significance)
+2.	JWT Token working
+3.	What is need of OAuth2 and JWT
+4.	SOAP vs REST
+5.	Swagger? What it is?
+6.	Profiles vs Conditional annotation
+7.	Creating Custom Jedis Datasource
+8.	Redis Cache
+9.	How to use configuration server
+10.	Collections general questions -> which best practices have you used etc.
+11.	Multi-threading general questions
+12.	Thread pool working
+13.	Blocking Queue
+14.	XSLT for SOAP
